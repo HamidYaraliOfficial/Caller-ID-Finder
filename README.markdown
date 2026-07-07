@@ -1,5 +1,3 @@
-# README (1)
-
 # 📱 Caller ID Finder / مزاحم‌یاب / 来电识别
 
 ---
